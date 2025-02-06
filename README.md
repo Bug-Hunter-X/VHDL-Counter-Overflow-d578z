@@ -1,0 +1,1 @@
+This repository contains a simple VHDL counter example that demonstrates a common coding error: unbounded counter increment. The original code lacks a mechanism to prevent the counter from exceeding its maximum value, leading to potential overflow.  The solution demonstrates how to implement a bounded counter to prevent this issue. 
